@@ -1,0 +1,2 @@
+# two_dimension_heat_conductivity_for_homogeneous_body
+ДВУМЕРНАЯ ЗАДАЧА ТЕПЛОПРОВОДНОСТИ ДЛЯ ОДНОРОДНОГО ТЕЛА
